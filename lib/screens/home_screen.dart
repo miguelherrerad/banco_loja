@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
                     ),
                     SizedBox(height: 20.h),
                     Text(
-                      'Accounts',
+                      'Cuentas',
                       style: kHeadingStyle,
                     ),
                     SizedBox(height: 10.h),
@@ -61,7 +61,7 @@ class HomeScreen extends StatelessWidget {
                     ),
                     SizedBox(height: 20.h),
                     Text(
-                      'Recent Payments',
+                      'Pagos Recientes',
                       style: kHeadingStyle,
                     ),
                     SizedBox(height: 15.h),
@@ -71,7 +71,7 @@ class HomeScreen extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           Text(
-                            'TODAY',
+                            'HOY',
                             style: kUpperCase,
                           ),
                           SizedBox(height: 5.h),
@@ -97,7 +97,7 @@ class HomeScreen extends StatelessWidget {
                           ),
                           SizedBox(height: 5.h),
                           Text(
-                            'YESTERDAY',
+                            'AYER',
                             style: kUpperCase,
                           ),
                           SizedBox(height: 5.h),

@@ -41,7 +41,7 @@ class CardScreen extends StatelessWidget {
                     bottom: 20.h,
                     left: 20.w,
                     child: Text(
-                      'Andrew Joshep',
+                      'Miguel Ángel Herrera Díaz',
                       style: kHeadingStyle.copyWith(
                         color: Colors.white,
                         fontWeight: FontWeight.w300,
@@ -53,35 +53,35 @@ class CardScreen extends StatelessWidget {
             ),
             SizedBox(height: 40.h),
             Text(
-              "DEBIT CARD",
+              "TARJETA DE CRÉDITO",
               style: kUpperCase,
             ),
             SizedBox(height: 5.h),
             Text(
-              "Exclusive edition",
+              "Edición Exclusiva",
               style: TextStyle(fontSize: 24.r),
             ),
             SizedBox(height: 15.h),
             const FeatureCard(
-              title: 'Premium Service',
+              title: 'Servicio Premium',
               iconPath: 'assets/images/rocket.svg',
               color: kOrange,
             ),
             SizedBox(height: 10.h),
             const FeatureCard(
-              title: '2% of daily purchase',
+              title: '2% de compras diarias',
               iconPath: 'assets/images/piggy.svg',
               color: kBlue,
             ),
             SizedBox(height: 10.h),
             const FeatureCard(
-              title: 'Up to 10% off while traveling',
+              title: 'Hasta 10% de descuento mientras viajas',
               iconPath: 'assets/images/airplane.svg',
               color: kPink,
             ),
             SizedBox(height: 10.h),
             const FeatureCard(
-              title: '3% annual interest',
+              title: '3% interés anual',
               iconPath: 'assets/images/interest.svg',
               color: kGreen,
             ),
@@ -96,7 +96,7 @@ class CardScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: <Widget>[
                   Text(
-                    'Apply for Card',
+                    'Aplicar para Tarjeta',
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 16.r,

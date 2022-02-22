@@ -36,7 +36,7 @@ class GettingStartedScreen extends StatelessWidget {
             FadeAnimation(
               intervalStart: 0.3,
               child: Text(
-                'Banking app \nfor your effortless \nmoney management',
+                'Banco de Loja \nSiempre contigo!',
                 style: TextStyle(
                   fontSize: 36.r,
                 ),

@@ -59,7 +59,7 @@ class FirstCard extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
                     Text(
-                      'AVAILABLE THIS MONTH',
+                      'DISPONIBLE ESTE MES',
                       style: TextStyle(
                         fontSize: 10.r,
                         color: Colors.black54,
@@ -88,7 +88,7 @@ class FirstCard extends StatelessWidget {
                   height: 8.h,
                 ),
                 Text(
-                  'Spent \$ 8 312,31',
+                  'Gastado \$ 8 312,31',
                   style: TextStyle(
                     fontSize: 10.r,
                     color: Colors.black54,
@@ -101,7 +101,7 @@ class FirstCard extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: <Widget>[
                     Text(
-                      'Manage',
+                      'Administrar',
                       style: kHeadingStyle,
                     ),
                     const Icon(

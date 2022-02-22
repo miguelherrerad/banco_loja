@@ -19,7 +19,7 @@ class CustomAppBar extends StatelessWidget {
         ),
         SizedBox(width: 15.w),
         Text(
-          'Anthony Jones',
+          'Miguel Herrera',
           style: TextStyle(
             fontSize: 18.r,
             fontWeight: FontWeight.w600,
