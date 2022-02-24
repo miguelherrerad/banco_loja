@@ -21,6 +21,7 @@ final kMoneyStyle = TextStyle(
 //Colors
 
 const kOrange = Color(0xffF5EFEA);
+const kGreen2 = Color.fromARGB(255, 76, 185, 49);
 const kBlue = Color(0xffEAF5F5);
 const kPink = Color(0xffF8F0F8);
 const kGreen = Color(0xffF2FAF1);
